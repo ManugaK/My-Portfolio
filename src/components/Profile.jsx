@@ -418,8 +418,8 @@ function Profile() {
               },
               {
                 label: 'Download CV',
-                href: '/Chamindu_CV.pdf',
-                download: 'Chamindu_CV.pdf',
+                href: '/Manuga_Dewhan_CV.pdf',
+                download: 'Manuga_Dewhan_CV.pdf',
               },
               { label: 'Email', href: 'mailto:manuga.dewhan@gmail.com' },
             ].map(({ label, href, external, download }, idx) => (
