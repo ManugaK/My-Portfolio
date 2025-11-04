@@ -32,7 +32,7 @@ export default function Contact() {
 
     try {
       // Using FormSubmit.co - free service that sends form data to your email
-      const response = await fetch('https://formsubmit.co/ajax/manuga.dewhan@gmail.com', {
+      const response = await fetch('https://formsubmit.co/manuga.dewhan@gmail.com', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
